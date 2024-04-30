@@ -1,0 +1,195 @@
+[
+    {
+        "name": "Premium Antibiotic-residue-free Chicken Thigh (with skin)",
+        "price": 300,
+        "description": "Naturally reared birds that are tender and have extremely tasty meat. Absolute guarantee that no anti-biotic residue remains in the chicken. No growth promoters have been used on the birds and these are processed in absolutely modern hygienic conditions in a HACCP & Halal certified processing centre.  The ultimate chicken thighs, much bigger package compared to its cousin the DrumStick which is only the lower portion. The Premium Chicken Thighs, 5 to 6 pieces per kg are tastiest when Tandoor-ed or fried."
+       ,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/a/catalogue_thigh-with-skin.jpg"
+            }
+        ],
+        "category": "chicken",
+        "subCategory": "chicken",        
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Premium Antibiotic-residue-free Chicken Thigh / Whole Leg",
+        "price": 200,
+        "description": "Naturally reared birds that are tender and have extremely tasty meat. Absolute guarantee that no anti-biotic residue remains in the chicken. No growth promoters have been used on the birds and these are processed in absolutely modern hygienic conditions in a HACCP & Halal certified processing centre.The ultimate chicken thighs, much bigger package compared to its cousin the DrumStick which is only the lower portion. The Premium Chicken Thighs, 5 to 6 pieces per kg are tastiest when Tandoor-ed or fried.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/h/chicken_whole_leg_pack_of_2_1.jpg"
+            }
+        ],
+        "category": "chicken",
+        "subCategory": "chicken",    
+         "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Premium Antibiotic-residue-free Chicken Gizzard - 500g Pack",
+        "price": 250,
+        "description": "A serving of chicken gizzards contains a hefty dose of protein, a nutrient necessary for energy production. Cooks often use gizzards as a soup ingredient. You also can grill, fry, barbecue or even pickle them.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/h/chicken_gizzard_copy.jpeg"
+            }
+        ],
+        "category": "chicken",
+        "subCategory": "chicken",    
+         "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Premium Antibiotic-residue-free Chicken (Tender & tastier than local market) - (700g Pack)",
+        "price": 180,
+        "description": "100% Antibiotic-residue free procurement of the birds. Free from all growth hormones.Lab tested to ensure zero antibiotic, growth promoting hormones and all the bad stuff. Cleaned and cut in a state-of-the-art HACCP certified processing centre. Reared for tender meat. And you can taste the difference in every delicious bite.Gross Weight of the chicken is 700g. Net Weight will be the quantity after Processing the Whole Chicken. Net Weight Will Vary depends on the cuts",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/o/country_chicken_whole_with_skin_4_2.jpeg"
+          }
+        ],
+        "category": "chicken",
+        "subCategory": "chicken",    
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Premium Sardine /Mathi fish (Small) (40+count/kg)",
+        "price": 300,
+        "description": "One of the cheapest yet the most tastiest of our entire fish collection...Has soft/chewable bones, but what an amazing taste! This is one fish that brings nostalgia to most people in South India. The humble Sardine though has multiple sub species of which the Special Sardine (for lack of a better name) is the best in terms of taste due to good amount of Fish Oil in it - Lots of Omega 3 to grow those budding brain cells.",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/m/a/mathi_whole_510g_special_1_.jpg"
+          }
+        ],
+        "category": "fish",
+        "subCategory": "sea fish",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Mackerel / Ayala / Bangda / Aylai (10 to 14 Count/kg) - Whole fish (480g to 550g Pack)",
+        "price": 400,
+        "description": "The mackerel is one of the most abused fish by the local market as its often shined in ammonia given its very soft & decay prone nature. Our mackerels in comparison will actually look more tame but the taste will be nothing like what you have eaten in the local market - most of our customers have written to us as they rediscover the mackerel from their childhood days when things were fresh - if you experience this, please let us know",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/m/a/mackerel_whole_4_1.jpg"
+            }
+        ],
+        "category": "fish",
+        "subCategory": "sea fish",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Yellow Snapper fish(150g+)",
+        "price": 350,
+        "description": "Low in fat and a good source of vitamin B6, potassium and phosphorous.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/y/e/yellow_snapper_whole.jpg"
+            }
+        ],
+        "category": "fish",
+        "subCategory": "farm fish",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Pink Perch /Sultan Ibrahim fish (Medium) (200g+)",
+        "price": 400,
+        "description": "Ask any Pink perch lover and they'll tell you - the bonier, the tastier. It goes by various names though, and is a seafood lover's favourite..",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/p/i/pink_perch_whole_1.jpg"
+            }
+        ],
+        "category": "fish",
+        "subCategory": "shell fish",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Indian mutton currry cut (480g to 500g) pack",
+        "price": 900,
+        "description": "They say we are choosy with our meats - you will believe it when we tell you that we only serve the very premium young male mutton approximately 6-8 months old with meat so tender that it will melt in your mouth. We apologise in advance to the non-Mutton eaters who may find the description gory, but our meat is simply the finest in town!",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/p/r/premium_tender_goat_curry_cut_2__4.jpg"
+            }
+        ],
+        "category": "meat",
+        "subCategory": "mutton",    
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Indian mutton currry cut boneless (480g to 500g) pack",
+        "price": 1200,
+        "description": "For the finest mutton Connoisseurs - Mutton that is tender and young. You are guaranteed to not need to cook this for a long time -Tasty and Juicy.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/l/a/lamb_bonelesscurry_cut.jpg"
+            }
+        ],
+        "category": "meat",
+        "subCategory": "mutton",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Beef Curry Cut Bone-in (IN)",
+        "price": 400,
+        "description": "Indulge in the robust flavor of our Beef Bone-In India. Carefully sourced from the finest cattle, this premium cut ensures a juicy and savory dining experience. Elevate your culinary ventures with the authentic taste of our thoughtfully selected bone-in beef.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/r/e/red-meat-with-bone_light.jpg"
+            }
+        ],
+        "category": "meat",
+        "subCategory": "beef",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Beef Curry Cut Boneless (IN)",
+        "price": 500,
+        "description": "Discover the exquisite taste of our Beef Boneless India. Sourced from the finest cattle, this premium cut promises a tender and succulent experience. Elevate your culinary creations with the rich, natural flavor of our carefully selected beef.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/a/catalogue_red-meat-boneless.jpg"
+            }
+        ],
+        "category": "meat",
+        "subCategory": "beef",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
